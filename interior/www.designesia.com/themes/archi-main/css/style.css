@@ -3090,7 +3090,7 @@ border:solid 1px #ddd;
 	}
 	
 	.de_tab .de_nav {
-	overflow: hidden;
+	/* overflow: hidden; */
 	padding-left: 0;
 	margin: 0;
 	padding: 0;
@@ -3125,11 +3125,12 @@ border:solid 1px #ddd;
 	background:none;
 	display:inline-block;
 	float:none;
-	margin:0 30px 0px 30px;
+	margin:0;
+	/* margin:0 30px 0px 30px; */
 	}
 	
 	.de_tab.tab_steps .de_nav li span {
-	padding:30px 0 30px 0;
+	padding:20px 0 20px 0;
 	color:#222;
 	font-family:"Dosis";
 	font-size:16px;
@@ -3137,8 +3138,8 @@ border:solid 1px #ddd;
 	-moz-border-radius:120px;
 	-webkit-border-radius:120px;
 	line-height:120px;
-	width:180px;
-	height:180px;
+	width:160px;
+	height:160px;
 	text-align:center;
 	text-transform:uppercase;
 	}
@@ -4460,8 +4461,8 @@ width:100%;
   width:100%;
 }
 
-	margin:5px;
-}
+	/* margin:5px;
+} */
 
 /* clear fix */
 .grid:after {
@@ -5674,6 +5675,12 @@ opacity:1;
 .de_review {
 text-align:center;
 min-height:260px;
+}
+
+.de_nav.col-2{
+	/* padding: 0 !important; */
+	padding-right: 0px !important;
+    padding-left: 0px !important;
 }
 
 .de_review .de_nav {
