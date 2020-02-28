@@ -1,4 +1,4 @@
-/* default color: #FAB702 */
+/* default color: #afe281 */
 .bg-color,section.bg-color,
 section.call-to-action,
 #mainmenu li li a:hover,
@@ -57,7 +57,7 @@ a.btn-slider.btn-color,
 .social-icons i:hover,
 #menu-btn:hover
 {
-	background-color:#FAB702;
+	background-color:#afe281;
 }
 
 .feature-box i,
@@ -105,7 +105,7 @@ footer a:hover,
 .picframe .project-name,
 blockquote.testimonial-big:before
 {
-	color:#FAB702;
+	color:#afe281;
 }
 
 .feature-box i,
@@ -129,7 +129,7 @@ blockquote.testimonial-big:before
 a.btn-slider.btn-color
 {
 
-	border-color:#FAB702;
+	border-color:#afe281;
 }
 
 .box-fx .inner,
@@ -137,32 +137,32 @@ a.btn-slider.btn-color
 .blog-list img,
 .arrow-up
 {
-	border-bottom-color:#FAB702;
+	border-bottom-color:#afe281;
 }
 
 .arrow-down{
-	border-top-color:#FAB702;
+	border-top-color:#afe281;
 }
 
 .callbacks_nav {
-	background-color:#FAB702;
+	background-color:#afe281;
 }
 
 
 .de_tab .de_nav li span {
-border-top: 3px solid #FAB702;
+border-top: 3px solid #afe281;
 }
 
 .feature-box-big-icon i:after {
-border-color: #FAB702 transparent; /*same colour as the lower of the bubble's gradient*/
+border-color: #afe281 transparent; /*same colour as the lower of the bubble's gradient*/
 }
 
 .de_review li.active img{
-	border:solid 4px #FAB702;
+	border:solid 4px #afe281;
 }
 
 blockquote.s1{
-	border-left-color:#FAB702;
+	border-left-color:#afe281;
 }
 
 
