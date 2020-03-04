@@ -87,7 +87,6 @@ a.btn-line:after,
 a.btn-text:after,
 .separator span  i,
 address span strong,
-.de_tab.tab_steps .de_nav li span:hover,
 .de_testi_by,
 .pf_text,
 .widget_tags li a,
@@ -106,6 +105,10 @@ footer a:hover,
 blockquote.testimonial-big:before
 {
 	color:#afe281;
+}
+.de_tab.tab_steps .de_nav li span:hover
+{
+	color:black;
 }
 
 .feature-box i,

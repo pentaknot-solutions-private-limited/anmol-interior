@@ -66,9 +66,9 @@ background:url(../images/background/subheader.jpg)top fixed;
 #section-portfolio{background:#222; width:101%; overflow:hidden;}
 .de_light #section-portfolio{background:#fff;}
 #section-skill-bar{ background:url(../images/background/bg-8.jpg) top fixed;}
-#section-testimonial{ background:url(../images/background/bg-3.jpg) top fixed;}
+#section-testimonial{ background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(../images/background/3.jpg) top fixed;}
 #section-testimonial-2{ background:url(../images/background/bg-17.jpg) top fixed;}
-#section-steps{ background:url(../images/background/bg-2.jpg) top fixed;}
+#section-steps{ background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(../images/background/interior1.jpg) top fixed;}
 #section-steps-2{ background:#f5f5f5;}
 #section-steps-3{ background:url(../images/background/bg-12.jpg) top fixed;}
 #section-steps-4{ background:url(../images/background/bg-32.jpg) top no-repeat;}
