@@ -575,10 +575,10 @@ overflow:visible;
 
 	#mainmenu li li a {
 	padding: 0px 12px 0px 12px;
-	background: #222327;
+	background:white;
 	border-top: none;
-	color: #ccc;
-	width:201px;
+	color: black;
+	width:215px;
 	border-left:none;
 	text-align:left;
 	}
@@ -3133,7 +3133,7 @@ border:solid 1px #ddd;
 	padding:20px 0 20px 0;
 	color:#222;
 	font-family:"Dosis";
-	font-size:16px;
+	font-size:14px;
 	border-radius:120px;
 	-moz-border-radius:120px;
 	-webkit-border-radius:120px;
