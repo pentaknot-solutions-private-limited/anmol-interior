@@ -3585,8 +3585,8 @@ border:solid 1px #ddd;
 		position:absolute;
 		z-index:100;
 		top:100%;
-		background:#111;
-		color:#ccc;
+		background:#00000096;
+		color:#fff;
 	}
 	
 	.de-team-list p{
@@ -3594,7 +3594,7 @@ border:solid 1px #ddd;
 	}
 	
 	.de-team-list .team-desc h3{
-		color:#fff;
+		color:#afe281;
 		margin-bottom:5px;
 	}
 	
@@ -3873,6 +3873,10 @@ overflow:hidden;
 .container-fluid {
     padding:0px;
 	margin:0px;
+}
+
+.some-space {
+	padding: 0 15px;
 }
 
 
@@ -5878,6 +5882,11 @@ display:table;
 	-moz-box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.4);
 	box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.4);
 }
+.shadow-soft:hover {
+	background: -webkit-linear-gradient(#C7D3DC,#5B798E);  
+	-webkit-transform: scale(1.05,1.05);
+    -webkit-transition: all 0.3s ease-in-out;
+}
 
 .overflow-hidden{
 	overflow:hidden;
@@ -6639,4 +6648,12 @@ display:table;
 	.grid-item .pf_title{
 		display:none;
 	}
+	}
+
+	.process_overlay, .shadow_bg {
+		height: 220px;
+		cursor: pointer;
+	}
+	#section-process {
+		padding: 30px !important;
 	}

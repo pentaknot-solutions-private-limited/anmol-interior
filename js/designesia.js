@@ -1251,6 +1251,12 @@ jQuery(document).ready(function () {
                 scrollTop: 0
             }, 700);
         });
+        $('#logo-clicked').on('click', function (e) {
+            e.preventDefault();
+            $('html,body').animate({
+                scrollTop: 0
+            }, 700);
+        });
 
         $("section,div").css('background-color', function () {
             return jQuery(this).data('bgcolor');
